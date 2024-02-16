@@ -1,0 +1,27 @@
+h3 {
+  font-size: x-large;
+}
+
+button {
+  font-size: medium;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: large;
+}
+
+table {
+  border-collapse: inherit;
+  border-spacing: 10px 10px;
+}
+
+td {
+  font-size: large;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgb(241, 235, 161);
+}
+
